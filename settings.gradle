@@ -3,4 +3,5 @@ include 'hello-world',
         'lasagna',
         'annalyns-infiltration',
         'cars-assemble',
-        'bird-watcher'
+        'bird-watcher',
+        'log-levels'
