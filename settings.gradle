@@ -1,0 +1,2 @@
+rootProject.name = 'Exercism Java'
+include 'hello-world'
