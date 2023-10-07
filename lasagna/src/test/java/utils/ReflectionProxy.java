@@ -8,6 +8,7 @@ import java.lang.reflect.ParameterizedType;
 
 import static java.lang.Class.forName;
 
+@SuppressWarnings("unchecked")
 public abstract class ReflectionProxy {
 
     /**

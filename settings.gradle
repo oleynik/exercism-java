@@ -1,2 +1,5 @@
 rootProject.name = 'Exercism Java'
-include 'hello-world', 'lasagna', 'annalyns-infiltration'
+include 'hello-world',
+        'lasagna',
+        'annalyns-infiltration',
+        'cars-assemble'
